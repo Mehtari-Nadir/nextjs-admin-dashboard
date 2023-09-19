@@ -8,12 +8,6 @@ With TailAdmin Next.js, you get access to all the necessary dashboard UI compone
 
 TailAdmin utilizes the powerful features of **Next.js 13** and common features of Next.js such as server-side rendering (SSR), static site generation (SSG), and seamless API route integration. Combined with the advancements of **React 18** and the robustness of **TypeScript**, TailAdmin is the perfect solution to help get your project up and running quickly.
 
-### [✨ Visit Website](https://tailadmin.com/)
-### [🚀 PRO Demo](https://nextjs-demo.tailadmin.com/)
-### [🚀 FREE Demo](https://nextjs-free-demo.tailadmin.com/)
-
-### TailAdmin Next.js PRO vs TailAdmin Next.js FREE Comparison 📊
-
 #### [TailAdmin Next.js PRO](https://nextjs-demo.tailadmin.com/)
 - 4 Unique Dashboards: Analytics, Ecommerce, Marketing, and CRM (More will be added)
 - 120+ Dashboard UI Components
@@ -33,16 +27,7 @@ ___
 - Figma Design Source - Free Sample
 ___
 
-### [⬇️ Download Now](https://tailadmin.com/download)
-
-### [⚡ Get PRO Version](https://tailadmin.com/pricing)
-
-### [📄 Documentation/Installation](https://tailadmin.com/docs)
-
 ### [🖌️ TailAdmin Figma Free Sample](https://www.figma.com/community/file/1214477970819985778)
-
-### [👉 TailAdmin HTML Version](https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template)
-
 
 ## Installation
 
@@ -80,9 +65,3 @@ TailAdmin Next.js is a free dashboard template, which uses Tailwind CSS, is a gr
 TailAdmin for Next.js provides all essential Next.js + Tailwind CSS UI components that can be copied and pasted directly into your dashboard projects. The range of components includes charts, graphs, navbars, tabs, buttons, cards, tables, profiles, forms, modals, app pages, calendars, web app example templates, and more, all coded for Next.js React and styled using Tailwind CSS.
 
 If you're on the hunt for a top-quality Next.js-Tailwind Dashboard, Admin Panel Template, or UI Kit, TailAdmin is the perfect choice for you!
-
-### 📄 License
-TailAdmin Next.js Free is 100% free and open-source; feel free to use it with your personal and commercial projects.
-
-### 💜 Support
-If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
