@@ -8,6 +8,7 @@ import SwitcherFour from "@/components/Switchers/SwitcherFour";
 import SwitcherOne from "@/components/Switchers/SwitcherOne";
 import SwitcherThree from "@/components/Switchers/SwitcherThree";
 import SwitcherTwo from "@/components/Switchers/SwitcherTwo";
+import DateTime from "@/components/Date/DateTime";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
@@ -83,39 +84,7 @@ const FormElements = () => {
           </div>
 
           {/* <!-- Time and date --> */}
-          <div className="rounded-sm border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark">
-            <div className="border-b border-stroke py-4 px-6.5 dark:border-strokedark">
-              <h3 className="font-medium text-black dark:text-white">
-                Time and date
-              </h3>
-            </div>
-            <div className="flex flex-col gap-5.5 p-6.5">
-              <div>
-                <label className="mb-3 block text-black dark:text-white">
-                  Date picker
-                </label>
-                <div className="relative">
-                  <input
-                    type="date"
-                    className="custom-input-date custom-input-date-1 w-full rounded border-[1.5px] border-stroke bg-transparent py-3 px-5 font-medium outline-none transition focus:border-primary active:border-primary dark:border-form-strokedark dark:bg-form-input dark:focus:border-primary"
-                  />
-                </div>
-              </div>
-
-              <div>
-                <label className="mb-3 block text-black dark:text-white">
-                  Select date
-                </label>
-                <div className="relative">
-                  <input
-                    type="date"
-                    className="custom-input-date custom-input-date-2 w-full rounded border-[1.5px] border-stroke bg-transparent py-3 px-5 font-medium outline-none transition focus:border-primary active:border-primary dark:border-form-strokedark dark:bg-form-input dark:focus:border-primary"
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
-
+          <DateTime />
           {/* <!-- File upload --> */}
           <div className="rounded-sm border border-stroke bg-white shadow-default dark:border-strokedark dark:bg-boxdark">
             <div className="border-b border-stroke py-4 px-6.5 dark:border-strokedark">
