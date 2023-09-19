@@ -74,6 +74,9 @@ const SignIn = () => {
                         <label htmlFor="si_rememberMe" className="flex cursor-pointer">
                             <div className="relative pt-0.5">
                                 <input
+                                    checked={values.si_rememberMe}
+                                    onChange={handleChange}
+                                    onBlur={handleBlur}
                                     type="checkbox"
                                     id="si_rememberMe"
                                     className="taskCheckbox sr-only"
