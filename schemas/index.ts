@@ -30,3 +30,7 @@ export const dateSchema = yup.object().shape({
 
 // .min(new Date('1900-01-01'), 'Date must be after 1900-01-01')
 // .max(new Date(`${currentYear}-12-31`), `Date must be before ${currentYear}-12-31`)
+
+export const fileUploadSchema = yup.object().shape({
+    file: yup.mixed().required("required")
+});
