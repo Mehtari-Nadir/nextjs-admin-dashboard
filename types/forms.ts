@@ -23,3 +23,7 @@ export type ContactFormValues = {
 export type DateFormValue = {
     date: string;
 }
+
+export type FileUploadValue = {
+    file: File | null;
+}
